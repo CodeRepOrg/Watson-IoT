@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/CodeRepOrg/Watson-IoT)](https://repl.it/github/CodeRepOrg/Watson-IoT)
+
 # Laboratório | Watson+IoT
 
 ## Introdução
