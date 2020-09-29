@@ -35,6 +35,15 @@ Para realizar esse laboratório você deverá cumprir os seguintes pré-requisit
 9. Plugar o endereço da API criada no Watson Assistant.
 10. Testar :)
 
+## Workshop Gravado
+
+[Watson+IoT](https://www.youtube.com/channel/UCwjSp5br9lWEkWwzeGMEfFQ?view_as=subscriber) disponível no YouTube.
+
+## Documentação
+
+- [IBM IoT Platform Docs](https://cloud.ibm.com/docs/IoT/index.html)
+- [IBM IoT Platform Python-SDK Docs](https://ibm-watson-iot.github.io/iot-python/)
+- [Watson Assistant Docs](https://cloud.ibm.com/docs/assistant?topic=assistant-getting-started)
 
 ## License
 
