@@ -8,7 +8,7 @@ Este é um laboratório com a finalidade de demonstrar como conectar dispositivo
 
 Também será implementado um integração entre o IoT com o [Watson Assistant](https://cloud.ibm.com/catalog/services/internet-of-things-platform) de forma que a leitura de sinais e envio de comandos seja feita em linguagem natural para simplificar a utilização da tecnologia.
 
-A arquitetura da aplicação a ser construída nesse laboratório está represetada na Figura 1, disponibilozada logo abaixo.
+A arquitetura da aplicação a ser construída nesse laboratório está represetada na Figura 1, disponibilizada logo abaixo.
 
 <div align="center">
     <img src="./img/fig01.png">
@@ -19,7 +19,7 @@ A arquitetura da aplicação a ser construída nesse laboratório está represet
 
 Para realizar esse laboratório você deverá cumprir os seguintes pré-requisitos:
 
-- Possuir uma conta na [IBM Cloud](#), podendo ser a conta FREE ou pay-as-you-go.
+- Possuir uma conta na [IBM Cloud](https://ibm.biz/Bdq3Nw), podendo ser a conta FREE ou pay-as-you-go.
 - [Python 3](https://www.python.org/downloads/) instalado junto com gerenciado de pacotes [pip](https://pip.pypa.io/en/stable/installing/); ou para simplificar uma conta no [repl.it](https://repl.it), para simularmos o dispositivo IoT.
 
 ## Passo a Passo
@@ -37,7 +37,7 @@ Para realizar esse laboratório você deverá cumprir os seguintes pré-requisit
 
 ## Workshop Gravado
 
-[Watson+IoT](https://www.youtube.com/channel/UCwjSp5br9lWEkWwzeGMEfFQ?view_as=subscriber) disponível no YouTube.
+[Watson+IoT](https://youtu.be/3qbUn1PXWns) disponível no YouTube.
 
 ## Documentação
 
